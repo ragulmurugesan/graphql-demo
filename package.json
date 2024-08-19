@@ -1,5 +1,5 @@
 {
-  "name": "users",
+  "name": "graphql-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
